@@ -3,3 +3,6 @@ torch==2.4.1
 pillow>=10.0
 transformers>=4.46,<5.0
 huggingface_hub>=0.34,<1.0
+torch==2.4.1
+torchvision==0.19.1
+
